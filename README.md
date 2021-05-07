@@ -49,7 +49,7 @@ Follow along the list of commands available for interaction:
 
         1. LIST_FILES - List files on server.
         2. UPLOAD - Upload files with given format.
-        3. DOWNLOAD - Download files from server by providing FILE ID
+        3. DOWNLOAD - Download files from server by providing File Id
         4. DISCONNECT - Disconnect from server
 
 
@@ -58,7 +58,7 @@ Note:
 ----
 
 - The client is interactive and requires above *commands* as user input. In **Upload** phase user has to provide specified format and approval for upload.
-- However, in **Download** phase client automatically downloads and verifies the sample file
+- However, in **Download** phase, client automatically downloads and verifies the sample file.
 
 
 
